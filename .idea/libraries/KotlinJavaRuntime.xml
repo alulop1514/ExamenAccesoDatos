@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/sqlite-jdbc-3.36.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/db4o-8.0/lib/db4o-8.0.276.16149-all-java5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
